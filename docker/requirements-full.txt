@@ -17,7 +17,7 @@ cobble==0.1.4
 colorama==0.4.6
 coloredlogs==15.0.1
 concurrent-log-handler==0.9.28
-cryptography==45.0.5
+cryptography==50.0.0
 cyclopts==3.22.2
 datasketch==1.6.5
 defusedxml==0.7.1
