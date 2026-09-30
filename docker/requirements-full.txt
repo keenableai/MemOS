@@ -182,7 +182,7 @@ pluggy==1.6.0
 psycopg2-binary==2.9.11
 py-key-value-aio==0.2.8
 py-key-value-shared==0.2.8
-PyJWT==2.10.1
+PyJWT==2.14.0
 pytest==9.0.2
 alibabacloud-oss-v2==1.2.2
 tavily-python==0.5.0
