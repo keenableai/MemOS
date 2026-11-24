@@ -32,7 +32,7 @@ fastapi==0.115.14
 fastapi-cli==0.0.8
 fastapi-cloud-cli==0.1.4
 fastmcp==2.10.5
-filelock==3.18.0
+filelock==4.2.1
 flatbuffers==25.2.10
 fsspec==2025.7.0
 greenlet==3.2.3

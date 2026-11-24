@@ -23,7 +23,7 @@ fastapi==0.115.14
 fastapi-cli==0.0.16
 fastapi-cloud-cli==0.3.1
 fastmcp==2.13.0.2
-filelock==3.20.0
+filelock==4.2.1
 fsspec==2025.10.0
 grpcio==1.76.0
 h11==0.16.0
