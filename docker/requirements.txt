@@ -14,7 +14,7 @@ cryptography==46.0.3
 cyclopts==4.2.3
 diskcache==5.6.3
 distro==1.9.0
-dnspython==2.8.0
+dnspython==2.9.2
 docstring_parser==0.17.0
 docutils==0.22.3
 email-validator==2.3.0
